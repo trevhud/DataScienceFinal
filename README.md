@@ -30,16 +30,27 @@ This was certainly an iterative process and the steps described were by no means
 The model of police suspension/termination, coupled with an analysis of the features that went into it, could help people understand both the threat of harsh consequences faced by police when in pursuit of suspects, and the dangers that certain segments of the population endure at the hands of law enforcement. Hopefully, by exploring the data as a whole, we can have enough information to ignore our biases and see these problems for what they are, multifaceted and nuanced as they may be.
 
 Data dictionary
+
 	cause_death: shooting, car accident, etc.
+	
 	state: US state
+	
 	gender: gender
+	
 	age: age
+	
 	race: race/nationality
+	
 	month_death: just month, without the year
+	
 	year_death:	year (2013-2015)
+	
 	armed: yes | no | unclear
+	
 	priors: yes | no | unclear
+	
 	suspended: yes | no | unclear
+	
 	
 
 
